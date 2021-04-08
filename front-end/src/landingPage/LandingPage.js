@@ -41,13 +41,7 @@ export default class LandingPage extends React.Component {
                         <div class="our-story-card hero-card hero_fuji vlv" data-uia-our-story="hero_fuji" data-uia="our-story-card">
                           <div class="our-story-card-background">
                             <div class="concord-img-wrapper" data-uia="concord-img-wrapper" style={{height: "703px"}}>
-                              <img class="concord-img vlv-creative" src="./NetflixFiles_files/BR-pt-20210322-popsignuptwoweeks-
-                              perspective_alpha_website_small.jpg" srcset="https://assets.nflxext.com/ffe/siteui/vlv3/92bb3a0b-7e91-40a0-b27b-f2c3ac9ef6e4/b21e3ad9-aa05-
-                              4122-b6a8-977eb91d5657/BR-pt-20210322-popsignuptwoweeks-perspective_alpha_website_small.jpg 1000w, 
-                              https://assets.nflxext.com/ffe/siteui/vlv3/92bb3a0b-7e91-40a0-b27b-f2c3ac9ef6e4/b21e3ad9-aa05-4122-b6a8-977eb91d5657/BR-pt-
-                              20210322-popsignuptwoweeks-perspective_alpha_website_medium.jpg 1500w, 
-                              https://assets.nflxext.com/ffe/siteui/vlv3/92bb3a0b-7e91-40a0-b27b-f2c3ac9ef6e4/b21e3ad9-aa05-4122-b6a8-977eb91d5657/BR-pt-
-                              20210322-popsignuptwoweeks-perspective_alpha_website_large.jpg 1800w" alt="" />
+                              <img class="concord-img vlv-creative" src="../images/default_bg.jpg" alt="" />
                               <div class="concord-img-gradient"></div>                              
                             </div>
                           </div>
